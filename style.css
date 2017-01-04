@@ -1,8 +1,12 @@
 h1 {
     color: purple;
-    font: Century Gothic;
+    font: Comic Sans;
     }
 h2 {
     color: blue;
-    font: Century Gothic;
+    font: Comic Sans;
     }
+p  {
+    color: red;
+    font: Arial;
+}
