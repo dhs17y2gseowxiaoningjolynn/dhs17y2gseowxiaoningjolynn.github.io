@@ -1,12 +1,8 @@
 h1 {
-    color: purple;
-    font: Comic Sans;
+    color: red;
+    font: Arial;
     }
 h2 {
     color: blue;
-    font: Comic Sans;
-    }
-p  {
-    color: red;
     font: Arial;
-}
+    }
